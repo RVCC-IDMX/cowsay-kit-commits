@@ -9,7 +9,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1 ", 
     "cowsay": "cowsay",
-    "moo": "cowsay 'Hello from npm scripts!'"
+    "moo": "cowsay 'Hello from npm scripts!'",
+    "favorite": "cowsay -f dragon 'I love npm scripts!'"
   },
   "keywords": [],
   "author": "",
