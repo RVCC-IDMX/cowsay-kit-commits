@@ -1,6 +1,6 @@
 # AI collaboration summary
 
-**Student name:** [Your name]
+**Student name:** Kaitlin Taylor
 
 **Assignment:** Week 2 - Use Agent mode
 
@@ -10,27 +10,42 @@
 
 Review your chat history with Agent and document 2 meaningful interactions—ones where you learned something new or had to adjust your prompt.
 
-### Interaction 1: [Brief title, e.g., "Setting up npm with Agent"]
+### Interaction 1: [Brief title, e.g., "Dragon Update"]
 
 **My prompt:**
 
-> [Copy the prompt you used]
+> [commit package.json to github with the message "dragon update".]
 
 **What happened:**
 
-[What did Agent do? What did you learn?]
+[The agent ran the dragon code to say "I love npm scripts!" next to 
+a dragon.]
 
 ---
 
-### Interaction 2: [Brief title]
+### Interaction 2: [Creating a new ReadMe]
 
 **My prompt:**
 
-> [Copy the prompt you used]
+> [Write a new README that includes:
+
+A level 1 heading with your project title [Make animals talk]
+A level 2 heading for a section [Json content]
+Your favorite cowsay output in a code fence: ```text
+ _______
+< Hello >
+ -------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+]
 
 **What happened:**
 
-[What did Agent do? What did you learn?]
+[The agent created and updated my readMe file]
 
 ---
 
@@ -38,7 +53,7 @@ Review your chat history with Agent and document 2 meaningful interactions—one
 
 ### docs/tutorial-package-json.md
 
-[1-2 sentences about what this file explains and whether you edited Agent's output]
+[It explains the syntax of Json code. I did not edit this file. ]
 
 ---
 
@@ -48,11 +63,16 @@ Answer these questions thoughtfully. A few sentences each is fine.
 
 ### Agent mode for setup (required)
 
-[How was using Agent for npm setup different from typing commands yourself? What are the advantages? Any downsides?]
+[How was using Agent for npm setup different from typing commands yourself? What are the advantages? Any downsides?
+
+Using agent for NPM is a faster process. Honestly no downsides, because you can always go and edit the code yourself. ]
 
 ### What you learned (required)
 
-[What was the most useful thing you learned in this assignment? This could be about npm, Agent mode, documentation, or anything else.]
+[What was the most useful thing you learned in this assignment? This could be about npm, Agent mode, documentation, or anything else.
+
+Learning more about JSON syntax, and how to use various
+parts of JSON code]
 
 ### Optional questions
 
